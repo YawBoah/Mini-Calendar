@@ -8,7 +8,7 @@
 .hero{
     width:100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #1d0000, #20205b);
+    background: linear-gradient(135deg, #FF6B6B, #8B0000, #1E90FF);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,8 +34,8 @@
 
 .right{
     width: 42%;
-    background: #f4351e;
-    color: #fff;
+    background: #e705053a;
+    color: #ffffff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
