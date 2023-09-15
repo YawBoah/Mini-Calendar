@@ -34,7 +34,7 @@
 
 .right{
     width: 42%;
-    background: #e705053a;
+    background: linear-gradient(45deg, #800000, #000080);
     color: #ffffff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
