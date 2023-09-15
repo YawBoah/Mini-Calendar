@@ -9,7 +9,7 @@ const weekDays = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","S
 
 const allmonths = [ "January", "February","March","April", "May","June","July", "August", "September","October","November","December"];
 
-date.innerHTML = today.getDate();
+date.innerHTML = (today.getDate()<10?"0":"") + today.getDate();
 day.innerHTML = weekDays[today.getDay()];
 month.innerHTML = allmonths[today.getMonth()];
 year.innerHTML = today.getFullYear();
