@@ -33,9 +33,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [Author Name] for inspiration and guidance.
+- Thanks to GreatStack for inspiration and guidance.
 
 ## Contact
 
-For questions or feedback, please contact [Your Name] at [your email address].
+For questions or feedback, please contact
+- **MASTERYob**
+- GitHub: [Your GitHub Profile](https://github.com/YawBoah)
 
