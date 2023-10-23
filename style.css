@@ -57,5 +57,11 @@
         text-align: center;
     }
 
+    .calendar {
+        width: 90%; /* Adjust calendar width for smaller screens */
+        height: auto;
+        margin: 20px 0;
+    }
+
     
 }
