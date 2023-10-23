@@ -51,5 +51,11 @@
 
 /* Media Query for screens with a maximum width of 480px */
 @media screen and (max-width: 480px) {
-   
+    .hero {
+        display: flex;
+        flex-direction: column; /* Stack items in a column */
+        text-align: center;
+    }
+
+    
 }
