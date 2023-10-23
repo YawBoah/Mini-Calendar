@@ -63,5 +63,9 @@
         margin: 20px 0;
     }
 
-    
+    .left,
+    .right {
+        width: 100%;
+        text-align: center;
+    }
 }
