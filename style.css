@@ -49,6 +49,22 @@
     line-height: 90px;
 }
 
+/* Add styles for the new features */
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.feature {
+    text-align: center;
+    color: #fff;
+}
+
+.feature i {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
 
 /* Media Query for screens with a maximum width of 480px */
 @media screen and (max-width: 480px) {
