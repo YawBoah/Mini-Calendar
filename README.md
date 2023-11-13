@@ -26,7 +26,6 @@ Contributions are highly appreciated! Fork the project, make improvements, and s
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
-
 - Special thanks to GreatStack for inspiration and guidance.
 
 ## 📬 Contact
