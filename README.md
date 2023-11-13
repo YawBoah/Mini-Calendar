@@ -2,7 +2,6 @@
 Welcome to the Mini Calendar, a delightful and simple web application to manage your schedule!
 
 ## ✨ Features
-
 - View the current month and year at a glance.
 - Effortlessly navigate to the previous and next months.
 - Quick identification of the current day with a highlight.
