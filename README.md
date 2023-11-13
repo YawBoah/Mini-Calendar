@@ -15,7 +15,6 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 5. Experience the convenience of the Mini Calendar!
 
 ## 🛠️ Technologies Used
-
 - HTML
 - CSS
 - JavaScript
