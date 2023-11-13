@@ -10,8 +10,15 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #FF6B6B, #8B0000, #1E90FF);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+#date, #day{
+    color:#000;
 }
 
 .hero h1 {
