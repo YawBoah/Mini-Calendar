@@ -29,7 +29,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to GreatStack for inspiration and guidance.
 
 ## 📬 Contact
-
 For questions or feedback, feel free to reach out to:
 - **MASTERYob**
 - GitHub: [Your GitHub Profile](https://github.com/YawBoah)
