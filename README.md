@@ -20,7 +20,6 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 - JavaScript
 
 ## 🤝 Contributions
-
 Contributions are highly appreciated! Fork the project, make improvements, and submit pull requests to enhance functionality or appearance.
 
 ## 📜 License
