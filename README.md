@@ -23,7 +23,6 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 Contributions are highly appreciated! Fork the project, make improvements, and submit pull requests to enhance functionality or appearance.
 
 ## 📜 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
