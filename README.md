@@ -8,7 +8,6 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 - Efficiently manage events and appointments on specific dates.
 
 ## 🚀 Usage
-
 1. Open `index.html` in your preferred web browser.
 2. The calendar will showcase the current month and year.
 3. Seamlessly navigate using the previous and next buttons.
