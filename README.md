@@ -32,6 +32,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 For questions or feedback, feel free to reach out to:
 - **MASTERYob**
-- GitHub: [Your GitHub Profile](https://github.com/YawBoah)
+- GitHub: [My GitHub Profile](https://github.com/YawBoah)
 
 Let's make scheduling a breeze! 🌟
