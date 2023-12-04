@@ -20,10 +20,10 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 - CSS
 - JavaScript
 
-## 🤝 Contributions
+## 🤝Contributions
 Contributions are highly appreciated! Fork the project, make improvements, and submit pull requests to enhance functionality or appearance.
 
-## 📜 License
+## 📜License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
