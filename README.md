@@ -8,14 +8,14 @@ Welcome to the Mini Calendar, a delightful and simple web application to manage 
 - Quick identification of the current day with a highlight.
 - Efficiently manage events and appointments on specific dates.
 
-## 🚀 Usage
+## 🚀Usage
 1. Open `index.html` in your preferred web browser.
 2. The calendar will showcase the current month and year.
 3. Seamlessly navigate using the previous and next buttons.
 4. Click on a date to view or add events/appointments.
 5. Experience the convenience of the Mini Calendar!
 
-## 🛠️ Technologies Used
+## 🛠️Technologies Used
 - HTML
 - CSS
 - JavaScript
