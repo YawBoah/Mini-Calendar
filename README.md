@@ -26,12 +26,12 @@ Contributions are highly appreciated! Fork the project, make improvements, and s
 ## 📜License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙌 Acknowledgments
+## 🙌Acknowledgments
 - Special thanks to GreatStack for inspiration and guidance.
 
-## 📬 Contact
+## 📬Contact
 For questions or feedback, feel free to reach out to:
 - **MASTERYob**
 - GitHub: [My GitHub Profile](https://github.com/YawBoah)
 
-Let's make scheduling a breeze! 🌟
+Let's make scheduling a breeze!🌟
