@@ -34,4 +34,4 @@ For questions or feedback, feel free to reach out to:
 - **MASTERYob**
 - GitHub: [My GitHub Profile](https://github.com/YawBoah)
 
-Let's make scheduling a breeze!🌟
+Let's make scheduling a breeze ❄!🌟
