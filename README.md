@@ -1,4 +1,4 @@
-# 📅Mini Calendar
+# 📅Mini Calendar📅
 Welcome to the Mini Calendar📅, a delightful and simple web application to manage your schedule!
 ![image](https://github.com/YawBoah/Mini-Calendar/assets/126890146/ac4c5fd0-a641-4358-ac0f-c4dd2ecc4498)
 
